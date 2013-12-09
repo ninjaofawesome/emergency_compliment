@@ -10,7 +10,9 @@ Bundler.require
 
 class TestApp < Sinatra::Application
 	get '/compliment' do
-		erb :compliment
+
+	@compliment = Compliment.new
+	erb :compliment
 	end
 
 	get '/sean' do

@@ -20,7 +20,7 @@ class Compliment
                         "I love your taste in symphonies.",
                         "Your dishes are always so much cleaner than mine."]
 
-	RELATIVE_PATH = "./public/images/"
+	RELATIVE_PATH = "./images/"
 
 	def initialize
 		@message = COMPLIMENT_ARRAY.sample
