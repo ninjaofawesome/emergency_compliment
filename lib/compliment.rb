@@ -14,9 +14,9 @@ class Compliment
                         "Your pet loves you too much to run away.",
                         "Your friends think you are wonderfully centered.",
                         "You have such a calming influence on me when I watch scary movies.",
-                        "You were the most respected kid in 6th grade.",
-                        "Your face is the roundest that I've ever seen.",
-                        "You pick the apples in the world.",
+                        "You were the most respected kid in the 6th grade.",
+                        "Your face is the roundest that I've seen in my whole life.",
+                        "You pick the best apples in the world.",
                         "I love your taste in symphonies.",
                         "Your dishes are always so much cleaner than mine."]
 
