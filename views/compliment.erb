@@ -1,3 +1,27 @@
+<<<<<<< HEAD
 <h1>"Who broke it??"</h1>
 <%= image_tag(@compliment.get_image_location, :alt => @compliment.image_name) %>
+=======
+	<header>
+		<h1 class ="extra_huge">You need a compliment.</h1>
+		<h2>take a look and click away till you feel all better.</h2>
+	</header>
+	<section id = "compliment" >
+		<%= @compliment.message %>
+	</section>
+	<section id = "image" >
+		<img src = <%= @compliment.get_image_location%>>
+	</section>
+
+	<footer>
+		<div class = "buttonbox button">
+			<h3>I feel better now.</h3>
+		</div>
+
+		<div class = "buttonbox buttonright">
+			<h3>Nope.</h3>
+		</div>
+
+	</footer>
+>>>>>>> 0a159096848ecf18474ea844349094e4238b5974
 

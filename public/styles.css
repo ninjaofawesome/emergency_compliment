@@ -47,5 +47,13 @@ h1, h2, h3, h4, h5, h6 {
 /*######SECTIONS######*/
     
  #compliment {
+ 	width: inherit;
+ 	margin: 5px 0;
+
+ }
+
+  #compliment {
+ 	width: inherit;
+ 	margin: 5px 0;
 
  }

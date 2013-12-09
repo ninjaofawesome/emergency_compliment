@@ -2,11 +2,16 @@ class Compliment
 	attr_accessor :message, :image_name
 
     #refactor to build a method to look in the public directory to find what images are available
-	IMAGE_ARRAY = ["awesome.png","chubbybubbles.jpg",
-                    "eldin.jpg","goldengirls.jpg",
-				    "hammertime.jpg","happycat.jpg",
-                    "megusta.jpg","squirrel.jpg",
-                    "stick.jpg","swag.jpg"]
+	IMAGE_ARRAY = [ "awesome.png",
+                    "chubbybubbles.jpg",
+                    "eldin.jpg",
+                    "goldengirls.jpg",
+				    "hammertime.jpg",
+                    "happycat.jpg",
+                    "megusta.jpg",
+                    "squirrel.jpg",
+                    "stick.jpg",
+                    "swag.jpg"]
 
     #refactor to build a method to look in the public directory to find what compliments are available
 	COMPLIMENT_ARRAY = ["Your cat is extremely well behaved.", 
