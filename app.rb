@@ -14,6 +14,6 @@ class TestApp < Sinatra::Application
 	end
 
 	get '/sean' do
-		"Sean is Awesome"	
+		erb :sean	
 	end
 end
