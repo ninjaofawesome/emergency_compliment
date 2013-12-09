@@ -23,3 +23,29 @@ h1, h2, h3, h4, h5, h6 {
 	  margin-bottom: 0.5em;
 	  line-height: 1.2125em; }
 
+.extra_huge {
+	font-size: 5.143em;
+}
+
+/*#####BUTTONS######*/
+.buttonbox {
+            overflow: hidden;
+        }
+
+.button {
+   float: left;
+   padding: 20px 10px;
+   margin-right: 5px;
+}
+
+.buttonright {
+	float: right;
+	padding: 20px 10px;
+   	margin-left: 5px;
+}
+
+/*######SECTIONS######*/
+    
+ #compliment {
+
+ }
